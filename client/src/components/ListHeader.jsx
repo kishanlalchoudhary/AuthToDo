@@ -8,7 +8,7 @@ const ListHeader = ({ listName, getData }) => {
   const [cookies, setCookie, removeCookie] = useCookies(null);
 
   const signOut = () => {
-    console.log("signOut");
+    // console.log("signOut");
     removeCookie("Email");
     removeCookie("AuthToken");
     window.location.reload();

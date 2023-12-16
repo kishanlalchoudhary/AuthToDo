@@ -26,7 +26,7 @@ const App = () => {
     }
   }, []);
 
-  console.log(tasks);
+  // console.log(tasks);
 
   // Sort by date
   const sortedTasks = tasks?.sort(

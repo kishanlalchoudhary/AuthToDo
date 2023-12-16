@@ -25,7 +25,7 @@ const Modal = ({ mode, setShowModal, getData, task }) => {
         }
       );
       if (response.status === 200) {
-        console.log("Created");
+        // console.log("Created");
         setShowModal(false);
         getData();
       }
@@ -46,7 +46,7 @@ const Modal = ({ mode, setShowModal, getData, task }) => {
         }
       );
       if (response.status === 200) {
-        console.log("Updated");
+        // console.log("Updated");
         setShowModal(false);
         getData();
       }
@@ -61,7 +61,7 @@ const Modal = ({ mode, setShowModal, getData, task }) => {
       ...data,
       [name]: value,
     }));
-    console.log(data);
+    // console.log(data);
   };
 
   return (
