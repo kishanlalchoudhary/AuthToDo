@@ -5,7 +5,7 @@ Welcome to AuthToDo, where organization meets simplicity in your daily life. Our
 ## Features
 
 - **User Authentication**: Your data is valuable, and we give utmost importance to its security. AuthToDo guarantees that your to-do list remains confidential and accessible only to you.
-- **Task Management**: You have the ability to insert a new task, modify the completion status of a task, and remove a task.
+- **Task Management**: You have the ability to view tasks, create a new task, modify the completion status of a task, and remove a task.
 
 ## Screenshots
 
