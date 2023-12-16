@@ -28,3 +28,16 @@ Welcome to AuthToDo, where organization meets simplicity in your daily life. Our
 ### Update Task Status
 
 ![Screenshot (697)](https://github.com/kishanlalchoudhary/AuthToDo/assets/107745828/05708ceb-f084-468e-ac99-712304faf042)
+
+### Delete Task
+
+![Screenshot (701)](https://github.com/kishanlalchoudhary/AuthToDo/assets/107745828/b59343e2-0393-4442-8c77-5e39a2497017)
+
+## Technologies Used
+
+- React.js
+- Node.js
+- Express.js
+- PostgreSQL
+- JWT
+- Bcrypt
