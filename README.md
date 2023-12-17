@@ -31,7 +31,7 @@ Welcome to AuthToDo, where organization meets simplicity in your daily life. Our
 
 ### Delete Task
 
-![Screenshot (701)](https://github.com/kishanlalchoudhary/AuthToDo/assets/107745828/b59343e2-0393-4442-8c77-5e39a2497017)
+![Screenshot (701)](https://github.com/kishanlalchoudhary/AuthToDo/assets/107745828/4481b1d2-cd5d-4a51-83dd-572f559d4805)
 
 ## Technologies Used
 
